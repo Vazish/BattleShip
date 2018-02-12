@@ -1,2 +1,0 @@
-# BattleShip
-BattleShip Game Backend
